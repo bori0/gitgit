@@ -1,0 +1,10 @@
+package as;
+
+public class bb {
+
+	public static void main(String[] args) {System.out.println("g");
+		// TODO Auto-generated method stub
+
+	}
+
+}
